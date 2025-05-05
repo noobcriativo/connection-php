@@ -86,7 +86,7 @@ Sinta-se à vontade para utilizar e adaptar este código como parte do seu portf
 
 ## Licença
 
-[ADICIONE A SUA LICENÇA AQUI, por exemplo, MIT License]
+[ GNU GENERAL PUBLIC LICENSE Version 3]
 
 ---
 
