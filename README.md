@@ -1,6 +1,7 @@
 # Conexão Segura PHP com MySQL usando PDO
 
 Este repositório contém exemplos de como estabelecer uma conexão segura com o banco de dados MySQL usando a extensão PDO (PHP Data Objects) em PHP. Ele demonstra as melhores práticas para realizar operações comuns como inserir, alterar e deletar registros, com foco na segurança contra SQL injection através de prepared statements.
+![Banner do Repositório](image/Banner-php-mysql.png)
 
 ## Conteúdo
 
